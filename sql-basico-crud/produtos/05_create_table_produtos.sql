@@ -1,0 +1,7 @@
+CREATE TABLE products (
+    product_id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY NOT NULL,
+    nome VARCHAR (100) NOT NULL,
+    preco DECIMAL(10,2) NOT NULL,
+    estoque INT DEFAULT 0,
+    data_cadastro DATE DEFAULT CURRENT_DATE
+);

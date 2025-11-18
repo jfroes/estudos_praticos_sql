@@ -96,30 +96,14 @@ WHERE p.preco > (
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **MySQL Workbench** - Interface gráfica para MySQL
 - **pgAdmin 4** - Interface gráfica para PostgreSQL
-- **DBeaver** - Cliente universal de banco de dados
-- **DB Fiddle** - Sandbox online para testes rápidos
-- **SQL Server Management Studio** - Para exercícios em SQL Server
-
+- 
 ## 📚 Bases de Dados de Estudo
 
 Os exercícios utilizam bases de dados fictícias que simulam cenários reais:
 
 1. **E-commerce** - Produtos, clientes, pedidos, categorias
 2. **RH (Recursos Humanos)** - Funcionários, departamentos, salários
-3. **Biblioteca** - Livros, autores, empréstimos, usuários
-4. **Hospital** - Pacientes, médicos, consultas, procedimentos
-
-## 🎓 Fontes de Aprendizado
-
-Este repositório foi construído com base em:
-
-- **Curso Java Spring Professional** - DevSuperior
-- **SQL Tutorial** - W3Schools
-- **PostgreSQL Documentation** - Documentação oficial
-- **MySQL Reference Manual** - Documentação oficial
-- **SQL for Data Analysis** - Livros e artigos técnicos
 
 ## 🚀 Como Usar Este Repositório
 
@@ -136,13 +120,7 @@ cd estudos_praticos_sql
 
 ### 3. Execute os exercícios
 - Navegue pelas pastas organizadas por tópico
-- Tente resolver os exercícios antes de ver as soluções
-- Compare suas soluções com as fornecidas
 
-### 4. Pratique regularmente
-- Adicione seus próprios exercícios
-- Documente suas descobertas
-- Crie queries mais complexas combinando conceitos
 
 ## 📈 Progresso de Aprendizado
 
@@ -155,14 +133,6 @@ cd estudos_praticos_sql
 | Subconsultas | 12 | 8 | 🔄 |
 | Window Functions | 10 | 0 | ⏳ |
 
-## 🎯 Próximos Passos
-
-- [ ] Completar exercícios de subconsultas
-- [ ] Adicionar seção de window functions
-- [ ] Criar desafios de otimização de queries
-- [ ] Documentar boas práticas de performance
-- [ ] Adicionar exercícios com dados reais de APIs públicas
-- [ ] Criar projeto final integrando todos os conceitos
 
 ## 💡 Boas Práticas Aprendidas
 

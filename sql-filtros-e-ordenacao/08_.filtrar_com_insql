@@ -1,0 +1,4 @@
+-- 08. Filtre registros com IN.
+
+SELECT * FROM products WHERE categoria IN ('Eletrônicos', 'Acessórios');
+
